@@ -5,7 +5,7 @@ categories: [finance,ufc]
 tags: [amazon,stocks,francis ngannou,ufc,roth ira,puts,calls,options]
 ---
 
-# 
+# The Predator Francis Ngannou, the Roth IRA, and the AMZN short put
 
 After shocking everyone in October with an unprecedented performance from an MMA fighter against a Boxer, Francis Ngannou has landed a fight in March against Anthony Joshua. I’m so excited for this fight, I’ve been a fan of Francis since he knocked out the undefeated Jairzinho Rozenstruik in 12 seconds in May of 2020. Since then he has become the undisputed Heavyweight champion of the UFC. This guy has the motivation and belief in himself like none other and he went from someone who was seen as a “how far can he get” fighter to a “how far will he go” fighter. As for the fight, as long as he puts in the hours and goes into the fight the way he looked against Fury I think he’ll be too much for Joshua. Francis has the chin and the power, Joshua has the technique and the experience. However, Francis showed how effective of a boxer he was against Tyson Fury, the top ranked Heavyweight on the planet at the time of their first fight. As for the cardio we’ll have to see on the night, Francis has been exhausted in his prior fights, but he has shown dramatic improvements in fighting against adversity since his first fight against Stipe Miocic in 2018. I believe it makes sense for Joshua to be the favorite given his status as a boxer, but I desperately want Francis to win so the story can continue into a rematch with Fury and a fierce return to MMA.
 
