@@ -1,6 +1,6 @@
 ---
 title: Quick Followup on Netflix Earnings
-date: 2024-01-18 17:16:00 -500
+date: 2024-01-23 17:16:00 -500
 categories: [finance,netflix]
 tags: [stocks,netflix,earnings]
 ---
