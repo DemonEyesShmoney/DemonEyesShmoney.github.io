@@ -9,7 +9,7 @@ tags: [portfolio,stocks,dustin poirier,puts,covered calls,options]
 
 Dustin "The Diamond" Poirier, this dude is allergic to boring fights, he's one of my favorite fighters and I pay to see his fights. Last week he came out and said his UFC 299 fight with the surging #11 ranked Benoit Saint-Denis (BSD) was off, that same day he came out and said it was miscommunication and the fight was back on. I'm just itching to see this, Poirier who is ranked #3 and in his last 5 fights fought Mcgregor twice is lowering the ladder to give BSD a shot at breaking into the top 5; this is a savage ass move because Poirier is coming off of a head kick KO loss to Justin Gaethje and his first fight back is going to be against a dude who finished his last 5 opponents in under two whole rounds each, not to mention BSD no name to anyone except hardcore MMA fans. The question isn't who has the better resume because it's Poirier, the question is; can Dustin still hang with these young up and coming fighters, does he deserve to stay in the top 5 lightweights? The UFC knows how big of a star Poirier is because more people are excited about this fight than the main event which is O'Malley vs Chito. If this fight had fallen through 299 would be signifigantly less anticipated by casual and harcore fans. Unfortunately I do think BSD is going to get it done, but I'm rooting for Poirier and hope in this five round fight he can turn back the clock and put on a masterclass.
 
-[Me talking telling my girlfriend about the fights](/assets/mmameme.png)
+[I can't stop telling my girlfriend about the fights](/assets/mmameme.png)
 
 [My Portfolio As Of February 5th](/assets/Positions0205.png)
 
