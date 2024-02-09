@@ -75,7 +75,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://www.instagram.com/p/CwVFV0zOkXK/?img_index=4
+avatar: (/assets/avatar1.png)
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
