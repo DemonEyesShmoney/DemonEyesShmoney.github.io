@@ -44,6 +44,7 @@ social:
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
     - https://www.pinterest.com/DemonEyesShmoney/
+    - https://www.instagram.com/maxdemoneyes/ 
 
 google_site_verification: # fill in to your verification string
 
@@ -74,7 +75,7 @@ theme_mode: dark
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://www.instagram.com/p/CwVFV0zOkXK/?img_index=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
