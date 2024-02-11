@@ -1,7 +1,7 @@
 ---
 title: Rebounds and Turnarounds
-date: 2024-02-11 19:30:00 -500
-categories: [portfolio,ufc298]
+date: 2024-02-11 13:20:00 -500
+categories: [portfolio,ufc 298]
 tags: [portfolio,stocks,volkanovski,puts,covered calls,options,topuria]
 ---
 
