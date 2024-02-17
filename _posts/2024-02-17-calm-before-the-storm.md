@@ -18,7 +18,7 @@ I think a big sell-off is incoming and it’s a great time to realize gains in t
 
 As for Nvidia itself, I keep going back and forth, it has a Market cap of 1.79 trillion (outstanding shares * share price) and just passed Amazon’s Market cap of $1.76T , they’re currently closing in on Google which is at 1.87T. I’ve been closely watching Nvidia for almost two years now, since last February the stock price has jumped after every earnings announcement. Next week is short due to the holiday so trading volume will be high in the time preceding earnings. I do think the stock is overpriced and the valuation doesn’t match the financials but the valuation didn’t match the financials during the previous earnings events either and the share price still jumped. My bullishness might fade causing me to rethink my position, but where I’m sitting now I’m confident in positioning myself for a big jump in the share price. I’m going to give an update this week before earnings since the situation is very fluid and the behavior of the stock on Tuesday and Wednesday could be very good indicators. My current Nvidia position is a combination of put credit spreads with varying expirations and strike prices and $880 calls that expire March 1st. I’m very confident in my put credit spreads, but I want to expose myself to higher possible returns with the calls even though they are riskier than the spreads.
 
-[Options Update February 17th](/assets/nvidiaposition0217.png)
+[Options Update February 17th](/assets/nvidiapositions0217.png)
 
 I’m not a financial advisor, this isn’t financial advice.
 
