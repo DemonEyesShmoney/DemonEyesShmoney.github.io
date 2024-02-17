@@ -10,7 +10,7 @@ tags: [portfolio,stocks,volkanovski,puts,calls,options,topuria,nvidia,earnings]
 
 I’ve made a bet with my girlfriend that she's taking Volk. I'm taking Topuria. The fight is tonight. At this point I don’t know why I’ve picked Topuria, I thought he had a good chance of winning but everyone doubts Volk but he's demon and he pulls it out, I’m still rooting for Topuria, but Topuria needs a bad version of Volk in order to win, and I think that last KO is going to slow Volk down. My official prediction for the main event is Topuria by decision.
 
-[UFC 298 Fight Picks, blue is who I want, red is who I think is going to win](/assets/picksufc298.png)
+[UFC 298 Fight Picks, blue is who I want, red is who I think is going to win](/assets/ufc298picks.png)
 
 The last pig, Nvidia, earnings are Thursday after market close. All of the A-listers have had their earnings; Google, Amazon, Tesla, Meta, Apple, Netflix, and smaller companies like Palantir and DraftKings. Regardless of the direction Nvidia takes after its earnings I think the market is going to go through a big sell off now that earnings are coming to an end for this quarter. Except for one, all of my positions expire on or before March 15th so that I can get out and restategise my portfolio. The market has gone on seeing the S&P 500 close over 5000 for the first time which was certainly inflated by the performance of companies like Microsoft, Apple, Nvidia, Amazon, and Meta since they are all amongst the S&P 500’s top holdings. 
 
