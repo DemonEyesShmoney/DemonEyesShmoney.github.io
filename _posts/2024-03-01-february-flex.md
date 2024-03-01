@@ -1,6 +1,6 @@
 ---
 title: February Month End 
-date: 2024-30-01 11:15:00 -500
+date: 2024-03-01 11:15:00 -500
 categories: [month end,milestone]
 tags: [portfolio,stocks,spreads,puts,options,block,nvidia,zoom,amazon,earnings,month end,forecast,performance]
 ---
