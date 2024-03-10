@@ -8,7 +8,8 @@ tags: [stocks,amazon,earnings,taxes]
 
 # Portfolio Update and Tax Loss Harvesting Tips
 
-[My Portfolio Since January 1st 2024](/assets/portupdate.png)
+## My Portfolio Since January 1st 2024
+![img-description](/assets/portupdate.png)
 
 I want to share an update on my portfolio’s lack of progress through the first month of the year along with a couple tax tricks that are completely legal. 
 
