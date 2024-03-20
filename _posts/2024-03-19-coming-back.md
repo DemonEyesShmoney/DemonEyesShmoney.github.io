@@ -11,6 +11,8 @@ Monday was a great day on the market especially early, even TSM was off to a gre
 
 So ($65 * 100) - ($7 * 100) - ($6 * 2) Robinhood Fee = $5,794 Premium Collected
 
+![img-description](/assets/03152024qqqopen.png)
+
 Since I do not use margin Robinhood lets me collateralize cash to open my put credit spreads. The collateral is released back to you if the position is a success, and if it's a loss the losses are deducted from the collateral. The amount of collateral is determined by the size of the spread minus the premium and the remainder is the necessary collateral. The size of the spread is the distance between strike prices of the put you sold and the one you bought, in my case it was a $1 spread because I sold the $436 and bought the $435 put. 
 
 So ($1 - $0.65) * 100 * 100 = $3,500 Necessary Collateral
