@@ -1,6 +1,6 @@
 ---
 title: Big QQQ Win and recovery path
-date: 2024-03-19 18:15:00 -500
+date: 2024-03-19 16:15:00 -500
 categories: [portfolio,spreads]
 tags: [portfolio,puts,spreads,collateral,wins,qqq]
 ---
