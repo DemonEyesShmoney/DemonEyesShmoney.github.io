@@ -15,6 +15,8 @@ Since I do not use margin Robinhood lets me collateralize cash to open my put cr
 
 So ($1 - $0.65) * 100 * 100 = $3,500 Necessary Collateral
 
+![img-description](/assets/03182024qqqprofits.png)
+
 This was a desperately needed stimmy pack, I was up about $7,000 on my portfolio at close. I am rallying from my losses, and plan to keep things a little less risky moving forward. Put credit spreads are my most successful strategy and I have opened some on Nvidia, Netflix, QQQ, SPY, and Amazon to hopefully collect some more premium before the end of the month.
 
 Just like always I’m not a financial advisor, this isn’t financial advice.
