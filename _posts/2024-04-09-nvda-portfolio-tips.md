@@ -21,9 +21,15 @@ These are some things I always keep in mind when trading and help me with my str
 
 5. Microsoft, Apple, Nvidia, Amazon, and Meta in that order are the 5 largest holdings of both SPY and QQQ. The performance of these indexes are extremely correlated to the performance of these companies, the price of these companies can serve as indicators for the indexes. As an example, if you’re expecting a large rally in Nvidia, bullish positions on SPY and QQQ could have a higher chance of success.
 
-```
+
 As for a quick portfolio update, we’re in deep with Nvidia across many expirations with the latest being June 21st. The stock price plummeted to $830 today but has been staggering back. I created a return profile which includes the maximum loss, maximum profit, along with the possible return on my portfolio as of 12:15 PM 4/9/2024. Most of my positions are Put Credit Spreads, however, all of my positions have varied levels of risk. I have some long shots and some more reasonable ones, but since the pull back I’ve become very worried for the future.
-```
+
+This is the table I created to display my live Nvidia positions. The file is downloadable so you can see the equations and build the table for your own positions.
+
+![img-description](/assets/nvda04092024returns.png)
+
+These are all of the prices as of 12:15 PM 4/9/2024 to calculate the maximum return.
+
 ![img-description](/assets/nvdapositions04.09.2024.png)
 
 Just like always I’m not a financial advisor, this isn’t financial advice.
