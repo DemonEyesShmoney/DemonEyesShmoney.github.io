@@ -28,12 +28,12 @@ This is the table I created to display my live Nvidia positions. The file is dow
 
 ![img-description](/assets/nvda04092024returns.png)
 
+## [Excel Download](https://demoneyesshmoney.github.io/nvidia04092024returnprofile.xlsx "download")
+
 These are all of the prices as of 12:15 PM 4/9/2024 to calculate the maximum return.
 
 ![img-description](/assets/nvdapositions04.09.2024.png)
 
 Just like always I’m not a financial advisor, this isn’t financial advice.
 
-UFC 300 picks coming this week!
-
-![excel](nvidia04092024returnprofile.xlsx)
+## UFC 300 picks coming this week!
