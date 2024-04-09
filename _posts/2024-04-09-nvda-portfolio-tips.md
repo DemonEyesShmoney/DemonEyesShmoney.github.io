@@ -28,7 +28,7 @@ This is the table I created to display my live Nvidia positions. The file is dow
 
 ![img-description](/assets/nvda04092024returns.png)
 
-## [Excel Download](https://demoneyesshmoney.github.io/nvidia04092024returnprofile.xlsx "download")
+## [Excel Download](https://demoneyesshmoney.github.io/nvidia04092024returnprofile.xlsx)
 
 These are all of the prices as of 12:15 PM 4/9/2024 to calculate the maximum return.
 
