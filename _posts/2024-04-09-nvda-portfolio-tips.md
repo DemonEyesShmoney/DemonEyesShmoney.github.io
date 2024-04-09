@@ -33,3 +33,7 @@ These are all of the prices as of 12:15 PM 4/9/2024 to calculate the maximum ret
 ![img-description](/assets/nvdapositions04.09.2024.png)
 
 Just like always I’m not a financial advisor, this isn’t financial advice.
+
+UFC 300 picks coming this week!
+
+![excel](nvidia04092024returnprofile.xlsx)
