@@ -1,6 +1,6 @@
 ---
 title: Max Holloway
-date: 2024-04-16 11:15:00 -500
+date: 2024-04-16 11:00:00 -500
 categories: [ufc, max holloway]
 tags: [predictions, ufc, ufc 300, charles oliviera, justin gaethje, max holloway]
 ---
