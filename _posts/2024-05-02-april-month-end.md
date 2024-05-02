@@ -5,6 +5,8 @@ categories: [month end, portfolio]
 tags: [month end, portfolio, loss porn, performance, financial reporting, assignment]
 ---
 
+## Aw shit, here we go again
+
 We’ve gotta stop meeting like this, another month, another slaughter. I’ve got no one to blame but myself. Between ambitious earnings plays, poor diversification, assignments, and a volatile market I managed to devastate my portfolio with a loss of 47.47% in April. The last few months have been brutal. On March 1st my portfolio was worth $31202.66, $27,015.8 on April 1st, and now 16190.86 on May 1st. Wth the way my portfolio is performing I can’t justify future deposits for a while. With these past few months turning out how they have, I’ve completely thrown off my goal of 50K at the end of the year. Losses came predominantly from Meta, Netflix, Microsoft, and Nvidia with Google and Amazon remaining reliable as always. Google and Amazon seem like the best things for spreads and shares especially at the moment, I'm thinking about some long term leap call options on them, but I'll have to find the right entry.
 
 ![img-description](/assets/aprilmonthend05012024.png)
