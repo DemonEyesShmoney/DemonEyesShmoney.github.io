@@ -5,7 +5,7 @@ categories: [dustin poirier, ufc 302]
 tags: [positions, ufc, dustin poirier, islam makhachev, paulo costa, sean strickland, predictions, ufc 302]
 ---
 
-# Happy Memorial Day
+# Happy Memorial Day!
 
 # Poirier vs Makhachev
 
