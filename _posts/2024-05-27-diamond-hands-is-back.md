@@ -17,6 +17,6 @@ As for Paulo Costa vs. Sean Strickland, I'm excited that Paulo is actually fight
 
 The portfolio is doing ok, I’m up $2,800 on the week, but there’s a long way to go. As for the financial reports I’m very behind this month even though I have been working to optimize the excel and added another stock. My positions are a mixed bag right now, they are listed below, hopefully we’ll be seeing another good week. Like always, I’m big on Amazon.
 
-![img-description](/assets/positions05.24.2024.png)
+![img-description](/assets/05.24.2024positions.png)
 
 I’m not a financial advisor. The information contained in this content is for entertainment purposes only. Before investing, please consult a licensed professional. Any stock purchases I show on video should not be considered “investment recommendations”. I shall not be held liable for any losses you may incur for investing and trading in the stock market in an attempt to mirror what I do. Unless investments are FDIC insured, they may decline in value and/or disappear entirely. Please be careful!
