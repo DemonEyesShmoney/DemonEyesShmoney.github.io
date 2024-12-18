@@ -5,7 +5,7 @@ categories: [russia, sanctions]
 tags: [putin, russia, economics, banking, credit, loans, ukraine, crypto, tether, usdt, tgr, biden, sanctions]
 ---
 
-#Laundering TGR and Russia Oh My
+## Laundering TGR and Russia Oh My
 
 A multinational effort between the U.S., Britain, France, Ireland, and the United Arab Emirates has led to 84 arrests and the seizure of over $25 million in cash and cryptocurrency. This serves as an expansion of “Joint Statement by the G7 Announcing Further Economic Costs on Russia” authored March 11, 2022 where President Biden, the United States, and their allies in the G7 express a unified economic stand against Vladimir Putin’s war of choice against the sovereign nation of Ukraine. In Biden’s statement on the G7 he declares that Russia cannot grossly violate international law and expect to benefit from being part of the international economic order. As of the 4th of December 2024, the U.S. The Department of the Treasury’s Office of Foreign Assets Control (OFAC) sanctioned five individuals and four business entities that are associated with or utilize the TGR group to evade sanctions. The statement from the OFAC reads “Through the TGR Group, Russian elites sought to exploit digital assets—in particular U.S. dollar-backed stablecoins—to evade U.S. and international sanctions, further enriching themselves and the Kremlin,” said Acting Under Secretary for Terrorism and Financial Intelligence Bradley T. Smith, “The United States, alongside our allies and partners, remains committed to disrupting any effort by Russia to use digital assets or other illicit financial schemes to accrue, store, and transfer their ill-gotten gains."
 
