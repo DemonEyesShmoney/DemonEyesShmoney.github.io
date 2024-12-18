@@ -5,7 +5,7 @@ categories: [putin, economics]
 tags: [putin, russia, economics, banking, credit, loans, ukraine]
 ---
 
-# The Green Curtain
+#
 
 ![img-description](/assets/greencurtain.png)
 
