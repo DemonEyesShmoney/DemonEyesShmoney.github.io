@@ -31,11 +31,11 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Preload upload-artifact (workaround)
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2
         with:
           name: preload-dummy
           path: ./README.md
-          
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -54,15 +54,15 @@ jobs:
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
-            \-\-disable-external=true \
-            \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+            --disable-external=true \
+            --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
           path: _site
           name: github-pages
-
+          
   deploy:
     environment:
       name: github-pages
